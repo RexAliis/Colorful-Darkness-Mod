@@ -1,0 +1,10 @@
+{
+  name: "b-dark"
+  displayName: "Beautiful Darkness"
+  description: "Dark-Mode Texture pack for Mindustry!"
+  author: RexHm (Discord ID: 612122239428722720)
+  version: "1.0"
+  minGameVersion: "126"
+  dependencies: []
+  hidden: true
+}

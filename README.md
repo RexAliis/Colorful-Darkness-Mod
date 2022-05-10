@@ -1,6 +1,6 @@
 # Colorful Darkness Mod `c-dark`
 
-A dark-mode style mod with changes to the colors of the structures.
+Dark-Mode Texture pack for Mindustry!
 
 # Downloads
 
